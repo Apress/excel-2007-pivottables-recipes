@@ -1,0 +1,20 @@
+Invoice#	Customer	Partner	Manager	Service	Amount	DateBilled	AmtPaid	DatePaid	O/S
+20080001	WindowCo	Baker	Chang	Tax	" 8,923.20 "	2008-01-05	" 8,923.20 "	2008-03-14	 -   
+20080002	AppCo	Baker	Nelson	Risk	" 2,658.70 "	2008-01-10	" 2,658.70 "	2008-03-10	 -   
+20080003	FoodCo	Baker	Cohen	Risk	" 9,241.10 "	2008-01-16	" 9,241.10 "	2008-02-27	 -   
+20080004	FurnCo	McConnell	Gray	Finance	" 8,047.60 "	2008-01-21	" 8,047.60 "	2008-02-22	 -   
+20080005	InsurCo	McConnell	Cohen	Risk	" 8,045.40 "	2008-01-26	" 8,045.40 "	2008-03-02	 -   
+20080006	SmallCo	Baker	Gray	Tax	" 2,519.00 "	2008-01-31	" 2,519.00 "	2008-03-29	 -   
+20080007	BigCo	McConnell	Chang	Risk	" 5,792.60 "	2008-02-07	" 5,792.60 "	2008-03-20	 -   
+20080008	AnyCo	McConnell	Nelson	Tax	" 2,690.60 "	2008-02-11			" 2,690.60 "
+20080009	WindowCo	Baker	Cohen	Finance	" 3,482.60 "	2008-02-16	" 3,482.60 "	2008-03-28	 -   
+20080010	AppCo	Baker	Gray	Finance	" 8,364.40 "	2008-02-21	" 8,364.40 "	2008-03-28	 -   
+20080011	FoodCo	Baker	Cohen	Tax	" 5,924.60 "	2008-02-24	" 5,924.60 "	2008-04-20	 -   
+20080012	FurnCo	McConnell	Gray	Tax	" 8,507.40 "	2008-03-01	" 8,507.40 "	2008-04-21	 -   
+20080013	InsurCo	McConnell	Chang	Risk	" 5,107.30 "	2008-03-07	" 5,107.30 "	2008-04-20	 -   
+20080014	SmallCo	Baker	Nelson	Tax	" 5,550.60 "	2008-03-15			" 5,550.60 "
+20080015	BigCo	McConnell	Chang	Finance	" 5,580.30 "	2008-03-17			" 5,580.30 "
+20080016	AnyCo	McConnell	Nelson	Audit	" 4,242.70 "	2008-03-22			" 4,242.70 "
+20080017	FoodCo	Baker	Cohen	Audit	" 8,712.00 "	2008-03-31			" 8,712.00 "
+20080018	FurnCo	McConnell	Gray	Finance	" 3,989.70 "	2008-04-05			" 3,989.70 "
+20080019	FoodCo	Baker	Cohen	Tax	" 7,155.30 "	2008-04-17			" 7,155.30 "   
